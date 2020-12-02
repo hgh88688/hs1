@@ -2,7 +2,7 @@
 int main()
 {
     int n;
-    printf("请输入你的数字哦:\n");
+    printf("请输入你的数字:\n");
     scanf("%d",&n);
     switch(n)
     {
